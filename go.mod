@@ -1,3 +1,3 @@
-module github.com/max/map_board
+module github.com/dev-web-hub/map_board
 
 go 1.22
